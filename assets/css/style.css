@@ -1,0 +1,24 @@
+body{ 
+    background-color: black;
+    color: hotpink;
+}
+
+header {
+    font-style: bold;
+    font-size: 30px;
+    line-height: 50px;
+    margin: 0px;
+
+}
+
+.instructions {
+    font-size: 20px;
+    line-height: 50px;
+    margin: 0px;
+}
+
+#game {
+    font-size: 20px;
+    line-height: 50px;
+    margin: 0px;
+}
